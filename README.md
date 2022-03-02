@@ -1,12 +1,16 @@
+<h1 align="center">Hi 👋, I'm Mital Patil</h1>
+<h3 align="center">I am a Data driven decision maker specializing in machine learning, who aims at learning all the necessary concepts related to Data Science in detail. I am Curious, Hardworking, and passionate for Data Science. Experience in Production Planning and control with demonstrating Root cause analysis,Problem Solving skills, Analytical thinking and team handling.<br>
+ Current target for me is to be "Jack of all trades, master of ONE"</h3>
 
- ### Namaste , I'm <a href="https://github.com/Mitalpatil1" target=”_blank”>Mital Patil</a> :pray:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mitalpatil1&label=Profile%20views&color=0e75b6&style=flat" alt="mitalpatil1" /> </p>
 
-- 🔭 I’m currently working on Data Analytics and Machine Learning  Projects
-- 🌱 I’m currently learning Deep Learning,Powerbi,Python(this never ends 😁) etc.
-- 👯 I’m looking to collaborate and learn on  Machine Learning andData analytics Projects
-- 💬 I love to discuss about Machine Learning ,Artificial Intelligence and a lot of other crazy stuff !!
-- ⚡ Current Favourite Quote :  “Be the Jack of All Trades ”
-   &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; 
+- 🔭 I’m currently working on **Machine Learning Projects**
+
+- 🌱 I’m currently learning **Google Analytics Professional Certification,Powerbi,Machine Learning and NLP**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Mitalpatil1](https://github.com/Mitalpatil1)
+
+- 📫 How to reach me **mitalpatil1@gmail.com**
 
 
 <p>
